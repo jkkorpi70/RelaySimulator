@@ -1,0 +1,50 @@
+C:\Users\Juha\source\repos\RelaySim\RelaySim\bin\Debug\RelaySim.exe.config
+C:\Users\Juha\source\repos\RelaySim\RelaySim\bin\Debug\RelaySim.exe
+C:\Users\Juha\source\repos\RelaySim\RelaySim\bin\Debug\RelaySim.pdb
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Debug\RelaySim.csprojAssemblyReference.cache
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Debug\MainWindow.g.cs
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Debug\App.g.cs
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Debug\RelaySim_MarkupCompile.cache
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Debug\RelaySim_MarkupCompile.lref
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Debug\MainWindow.baml
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Debug\RelaySim.g.resources
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Debug\RelaySim.AboutBox1.resources
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Debug\RelaySim.Properties.Resources.resources
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Debug\RelaySim.csproj.GenerateResource.cache
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Debug\RelaySim.exe
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Debug\RelaySim.pdb
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Debug\RelaySim.csproj.CoreCompileInputs.cache
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\bin\Debug\RelaySim.exe.config
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\bin\Debug\RelaySim.exe
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\bin\Debug\RelaySim.pdb
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\obj\Debug\RelaySim.csproj.AssemblyReference.cache
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\obj\Debug\RelaySim.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\obj\Debug\MainWindow.g.cs
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\obj\Debug\App.g.cs
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\obj\Debug\RelaySim_MarkupCompile.cache
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\obj\Debug\RelaySim_MarkupCompile.lref
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\obj\Debug\MainWindow.baml
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\obj\Debug\RelaySim.g.resources
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\obj\Debug\RelaySim.AboutBox1.resources
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\obj\Debug\RelaySim.Properties.Resources.resources
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\obj\Debug\RelaySim.csproj.GenerateResource.cache
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\obj\Debug\RelaySim.csproj.CoreCompileInputs.cache
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\obj\Debug\RelaySim.exe
+D:\VisualStudio-Backup\RelaySim 22.05.21\RelaySim\obj\Debug\RelaySim.pdb
+D:\VisualStudio-Backup\RelaySim\RelaySim\bin\Debug\RelaySim.exe.config
+D:\VisualStudio-Backup\RelaySim\RelaySim\bin\Debug\RelaySim.exe
+D:\VisualStudio-Backup\RelaySim\RelaySim\bin\Debug\RelaySim.pdb
+D:\VisualStudio-Backup\RelaySim\RelaySim\obj\Debug\RelaySim.csproj.AssemblyReference.cache
+D:\VisualStudio-Backup\RelaySim\RelaySim\obj\Debug\RelaySim.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio-Backup\RelaySim\RelaySim\obj\Debug\MainWindow.g.cs
+D:\VisualStudio-Backup\RelaySim\RelaySim\obj\Debug\App.g.cs
+D:\VisualStudio-Backup\RelaySim\RelaySim\obj\Debug\RelaySim_MarkupCompile.cache
+D:\VisualStudio-Backup\RelaySim\RelaySim\obj\Debug\RelaySim_MarkupCompile.lref
+D:\VisualStudio-Backup\RelaySim\RelaySim\obj\Debug\MainWindow.baml
+D:\VisualStudio-Backup\RelaySim\RelaySim\obj\Debug\RelaySim.g.resources
+D:\VisualStudio-Backup\RelaySim\RelaySim\obj\Debug\RelaySim.AboutBox1.resources
+D:\VisualStudio-Backup\RelaySim\RelaySim\obj\Debug\RelaySim.Properties.Resources.resources
+D:\VisualStudio-Backup\RelaySim\RelaySim\obj\Debug\RelaySim.csproj.GenerateResource.cache
+D:\VisualStudio-Backup\RelaySim\RelaySim\obj\Debug\RelaySim.csproj.CoreCompileInputs.cache
+D:\VisualStudio-Backup\RelaySim\RelaySim\obj\Debug\RelaySim.exe
+D:\VisualStudio-Backup\RelaySim\RelaySim\obj\Debug\RelaySim.pdb

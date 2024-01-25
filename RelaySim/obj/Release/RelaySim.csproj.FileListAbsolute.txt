@@ -1,0 +1,15 @@
+C:\Users\Juha\source\repos\RelaySim\RelaySim\bin\Release\RelaySim.exe.config
+C:\Users\Juha\source\repos\RelaySim\RelaySim\bin\Release\RelaySim.exe
+C:\Users\Juha\source\repos\RelaySim\RelaySim\bin\Release\RelaySim.pdb
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Release\RelaySim.csprojAssemblyReference.cache
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Release\MainWindow.g.cs
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Release\App.g.cs
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Release\RelaySim_MarkupCompile.cache
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Release\RelaySim_MarkupCompile.lref
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Release\MainWindow.baml
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Release\RelaySim.g.resources
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Release\RelaySim.AboutBox1.resources
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Release\RelaySim.Properties.Resources.resources
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Release\RelaySim.csproj.GenerateResource.cache
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Release\RelaySim.exe
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\Release\RelaySim.pdb

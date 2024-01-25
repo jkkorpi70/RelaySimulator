@@ -1,0 +1,16 @@
+C:\Users\Juha\source\repos\RelaySim\RelaySim\bin\x86\Debug\RelaySim.exe.config
+C:\Users\Juha\source\repos\RelaySim\RelaySim\bin\x86\Debug\RelaySim.exe
+C:\Users\Juha\source\repos\RelaySim\RelaySim\bin\x86\Debug\RelaySim.pdb
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\x86\Debug\RelaySim.csprojAssemblyReference.cache
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\x86\Debug\App.g.cs
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\x86\Debug\RelaySim_MarkupCompile.cache
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\x86\Debug\RelaySim_MarkupCompile.lref
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\x86\Debug\MainWindow.baml
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\x86\Debug\RelaySim.g.resources
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\x86\Debug\RelaySim.AboutBox1.resources
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\x86\Debug\RelaySim.Properties.Resources.resources
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\x86\Debug\RelaySim.csproj.GenerateResource.cache
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\x86\Debug\RelaySim.csproj.CoreCompileInputs.cache
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\x86\Debug\RelaySim.exe
+C:\Users\Juha\source\repos\RelaySim\RelaySim\obj\x86\Debug\RelaySim.pdb
